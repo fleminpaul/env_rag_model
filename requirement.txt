@@ -1,0 +1,13 @@
+llama-index
+llama-index-llms-ollama
+llama-index-llms-replicate
+llama-index-embeddings-huggingface
+llama-parse
+llama-index-readers-web
+unstructured
+lxml
+llama-index-graph-stores-nebula
+llama-index-readers-file
+chromadb
+llama-index-vector-stores-chroma
+flask
